@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://e-fit.herokuapp.com/",
+    "appId": "e-fit",
+    "masterKey": "5BtW7le8MM3zsi9FMtw4",
+    "appName": "E fit",
     "iconName": "",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
