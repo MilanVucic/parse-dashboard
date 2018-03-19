@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "https://e-fit.herokuapp.com/",
+    "serverURL": "https://e-fit.herokuapp.com/parse",
     "appId": "e-fit",
     "masterKey": "5BtW7le8MM3zsi9FMtw4",
     "appName": "E fit",
@@ -8,5 +8,11 @@
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
   }],
-  "iconsFolder": "icons"
+  "iconsFolder": "icons",
+  "users": [
+    {
+      "user":"admin",
+      "pass":"trainers2016***" // change this to something secure
+    }
+  ]
 }
