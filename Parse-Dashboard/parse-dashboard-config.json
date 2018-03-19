@@ -12,7 +12,7 @@
   "users": [
     {
       "user":"admin",
-      "pass":"trainers2016***" // change this to something secure
+      "pass":"trainers2016***"
     }
   ]
 }
